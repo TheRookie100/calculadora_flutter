@@ -5,10 +5,10 @@ class CalculatorButton extends StatelessWidget { // Define uma classe Calculator
   final VoidCallback onTap; // Define uma variável final onTap que armazena a função que é chamada quando o botão é pressionado.
 
   const CalculatorButton({ // Define um construtor que recebe o texto e a função como argumentos.
-    Key? key,
+    super.key,
     required this.text,
     required this.onTap,
-  }) : super(key: key);
+  });
 
   bool isOperation() { // Define um método que verifica se o texto do botão é uma operação.
     return ['+', '-', '*', '/', 'C', '^', '!', 'x', '='].contains(text);

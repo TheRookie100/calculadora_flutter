@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class HistoryView extends StatelessWidget { // Define uma classe HistoryView que estende StatelessWidget.
   final List<String> history; // Define uma variável final history que armazena o histórico de operações.
 
-  const HistoryView({Key? key, required this.history}) : super(key: key); // Define um construtor que recebe o histórico como um argumento.
+  const HistoryView({super.key, required this.history}); // Define um construtor que recebe o histórico como um argumento.
 
   @override
   Widget build(BuildContext context) { // Define o método build que constrói o widget.
