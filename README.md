@@ -2,7 +2,7 @@
 <h2>Acessibilidade</h2>
 
 
-<img src="/calculadora/lib//images/Screenshot 2024-05-24 195113.png">
+<img src="/calculadora/arquivo1.png">
 
 
 <hr>
