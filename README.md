@@ -1,8 +1,10 @@
-# Calculadora Flutter
 <hr>
 <img src="/calculadora/lib/assets/Screenshot 2024-05-24 194738.png">
 <img src="/calculadora/lib/assets/Screenshot 2024-05-24 195113.png">
 <hr>
+
+# Calculadora Flutter
+
 
 Este é um aplicativo de calculadora simples construído com Flutter. Ele usa o padrão de 
 gerenciamento de estado Provider para gerenciar o estado do aplicativo.
