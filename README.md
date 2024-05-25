@@ -49,10 +49,6 @@ Se este é o seu primeiro projeto Flutter, aqui estão alguns recursos para ajud
 
 Para obter ajuda para começar a desenvolver com Flutter, consulte a [documentação online](https://docs.flutter.dev/), que oferece tutoriais, exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
 
-<hr>
-<img src="/calculadora/lib/assets/Screenshot 2024-05-24 194738.png">
-<img src="/calculadora/lib/assets/Screenshot 2024-05-24 195113.png">
-<hr>
-<img src="/calculadora/lib/images/arquivo1.png">
+
 
 
