@@ -2,7 +2,7 @@
 <img src="/calculadora/lib/assets/Screenshot 2024-05-24 194738.png">
 <img src="/calculadora/lib/assets/Screenshot 2024-05-24 195113.png">
 <hr>
-<img  src="/calculadora/lib/assets/Screenshot 2024-05-24 194738.png" alt="Acessibilidade">
+<img src="/calculadora/assets/Screenshot 2024-05-24 194738.png">
 # Calculadora Flutter
 
 
